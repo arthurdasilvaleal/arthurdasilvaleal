@@ -1,29 +1,53 @@
-![banner](https://grandeporte.com.br/images/banner-curso-1.jpg)
+<div align="center">
 
-### Olá 👋, eu sou o Arthur
+# Olá, eu sou o Arthur! 👋
 
-*Apaixonado por games e tecnologia, ficando cada vez mais animado com meu aprendizado de cada dia!!*
-<br/>
+### Desenvolvedor em formação · Tecnologia · Games
 
-### Minha redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdasilvaleal/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Art_2146Leal)
+<p>Explorando o desenvolvimento web e transformando curiosidade em projetos. Sempre aprendendo algo novo e construindo minha próxima ideia.</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdasilvaleal/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_leal2146/)
-<br/>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Art_2146Leal)
+
+</div>
+
+## Sobre mim
+
+- 🎮 Apaixonado por games e tecnologia
+- 💻 Estudando desenvolvimento web e programação
+- 🚀 Gosto de aprender na prática, criando projetos e experimentando novas ferramentas
+- 📚 Em constante evolução como desenvolvedor
+
+## Tecnologias e ferramentas
+
+### Desenvolvimento
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Dados, ferramentas e deploy
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Estatísticas
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurdasilvaleal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdasilvaleal&layout=compact&theme=tokyonight" />
+</div>
+
+## Também me encontre em
+
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/jester_2146)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jester2146/)
-[![RiotGames](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/br/jester2146-OFA)
+[![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.op.gg/summoners/br/jester2146-OFA)
 
-### Tecnologias que eu uso no meu dia:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdasilvaleal&layout=compact)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<br/>
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+_“A melhor forma de aprender é construir.”_
+</div>
