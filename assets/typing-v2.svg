@@ -1,6 +1,6 @@
 <svg width="520" height="70" viewBox="0 0 520 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Apresentação animada</title>
-  <desc id="desc">Desenvolvedor web, apaixonado por tecnologia e games</desc>
+  <desc id="desc">Desenvolvedor Web</desc>
   <rect width="520" height="70" rx="12" fill="#161b22" stroke="#30363d"/>
   <text x="24" y="42" fill="#58a6ff" font-family="monospace" font-size="22">&gt;_</text>
   <clipPath id="typing-mask">

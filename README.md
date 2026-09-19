@@ -6,7 +6,7 @@
 
 <p>Explorando o desenvolvimento web e transformando curiosidade em projetos. Sempre aprendendo algo novo e construindo minha próxima ideia.</p>
 
-<img src="./assets/typing.svg" alt="Animação: desenvolvedor web, apaixonado por tecnologia e games" width="520" />
+<img src="./assets/typing-v2.svg" alt="Animação: desenvolvedor web" width="520" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurdasilvaleal/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_leal2146/)
