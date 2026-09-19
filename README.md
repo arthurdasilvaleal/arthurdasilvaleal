@@ -35,12 +35,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Estatísticas
+## Atividade
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurdasilvaleal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdasilvaleal&layout=compact&theme=tokyonight" />
-</div>
+Confira meus projetos, repositórios e contribuições diretamente no meu [perfil do GitHub](https://github.com/arthurdasilvaleal).
 
 ## Também me encontre em
 
